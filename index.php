@@ -1,4 +1,4 @@
-    
+
     <?php 
     
     $title = 'Index';
@@ -211,7 +211,7 @@ body {
   <header class="header">
     <a href="index.php" class="logo">DIVORCE</a>
     <nav class="nav-items">
-      <a href="#">LOGIN</a>
+      <a href="login.php">LOGIN</a>
       <a href="registrationform.php"> Register with Us </a>
       <a href="viewrecords.php">VIEW PROFILE</a>
       <a href="#">LOGOUT</a>
