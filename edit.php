@@ -153,7 +153,16 @@
 			<i class="fa fa-paper-plane"></i>
 			<span class="send-text">Save Changes</span>
 			</button>
-			<a href ="viewrecords.php" class= "btn btn-default" >Back to List</a>
+			
+			<button
+			class="btn btn-default send-button"
+			id="submit"
+			type="submit"
+			name="submit"
+			value="SEND">
+			<i class="fa fa-paper-plane"></i>
+			<span class="send-text">Back to the List</span>
+			</button>
 		</form>
 		<!-- end of form -->
 		<?php }?>
